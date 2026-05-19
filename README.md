@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Front-End Developer<br>- 🔭 I’m currently studying at UFAZ.<br>- 💻 Currently searching jobs as Front-End Developer<br>- 🌱 I’m currently expanding my knowladge as Full Stack at 'DIV academy'<br>- 📫 How to reach me: nazizli1112@gmail.com<br><br>
+I'm Front-End Developer<br>- 🔭 I’m currently studying at UFAZ.<br>- 💻 Currently searching jobs as Front-End Developer<br>- 🌱 I’m currently expanding my knowladge as Full Stack <br>- 📫 How to reach me: nazizli1112@gmail.com<br><br>
 
 
 # 💻 Tech Stack:
